@@ -13,7 +13,7 @@
   padding: 0;
   background-color: #D4E6F1;
   font-family: Arial;
-  font-size: 15px;
+  font-size: 20px;
   overflow: hidden;
   }
   .center {text-align:center;
@@ -21,9 +21,9 @@
   .head {display: inline;
   color: black;
   text-align: center;
-  padding: 10px 15px;
+  padding: 10px 20px;
   float: left;
-  font-size: 15px;
+  font-size: 20px;
   }
 div.a {
   line-height: normal;
