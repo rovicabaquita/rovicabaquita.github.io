@@ -1,0 +1,48 @@
+<style>
+  .name {color: black;
+  size: 10;
+  font-family: Palatino;}
+  .address {size:5;
+  }
+  body {background-image: url("bg.jpg");
+  font-family: Palatino;
+  color: #17202A;
+  }
+  .bullet {list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #E6B0AA;
+  font-family: Palatino;
+  font-size: 20px;
+  overflow: hidden;
+  }
+  .center {text-align:center;
+  }
+  .head {display: inline;
+  color: black;
+  text-align: center;
+  padding: 10px 20px;
+  float: left;
+  font-size: 20px;
+  }
+div.a {
+  line-height: normal;
+}
+  p {margin: 0;
+  }
+  a {
+  text-decoration: none;
+  }
+  a:link {
+  color: black
+  }
+  a:visited {
+  color: black
+  }
+  a:active {
+  color: black
+  }
+  li {
+  color: black
+  }
+</style>
