@@ -1,18 +1,18 @@
 <style>
   .name {color: black;
   size: 10;
-  font-family: Verdana;}
+  font-family: Arial;}
   .address {size:5;
   }
   body {background-image: url("bg.jpg");
-  font-family: Verdana;
+  font-family: Arial;
   color: black;
   }
   .bullet {list-style-type: none;
   margin: 0;
   padding: 0;
   background-color: #D4E6F1;
-  font-family: Verdana;
+  font-family: Arial;
   font-size: 20px;
   overflow: hidden;
   }
